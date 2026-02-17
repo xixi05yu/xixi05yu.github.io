@@ -1,6 +1,6 @@
 p {
     text-align: center;
-    color: red;
+    color: rgb(202, 248, 223);
 }
 body {
     background: rgb(184, 212, 232);
@@ -11,17 +11,17 @@ body {
 }
 .about {
     text-align: center;
-    color: blue;
+    color: rgb(175, 224, 183);
 }
 .projects {
-    background: #00b3d1;
+    background: #f2cdd4;
 }
 
 .left {
     text-align: left;
 }
 .green {
-    color: green;
+    color: rgb(244, 240, 186);
 }
 .attention {
     font-weight: bold;
