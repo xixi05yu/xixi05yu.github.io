@@ -2,27 +2,67 @@ p {
     text-align: center;
     color: rgb(202, 248, 223);
 }
+
 body {
     background: rgb(184, 212, 232);
     font-family: Arial, Helvetica, sans-serif;
 }
+
 #header {
     color: rgb(219, 175, 236);
+    text-align: center;
 }
+
 .about {
     text-align: center;
     color: rgb(175, 224, 183);
 }
+
 .projects {
     background: #f2cdd4;
+    padding: 20px;
+}
+
+.project {
+    background: white;
+    margin: 20px auto;
+    padding: 15px;
+    width: 80%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.project img {
+    width: 300px;
+    height: 300px;
+    margin: 10px auto;
+    border: 2px solid rgb(126, 14, 201);
+    display: block;
+}
+
+.project p {
+    text-align: center;
+    margin: 15px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
 }
 
 .left {
     text-align: left;
 }
+
 .green {
     color: rgb(244, 240, 186);
 }
+
 .attention {
     font-weight: bold;
+}
+
+.contact {
+    text-align: center;
 }
